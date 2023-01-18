@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class DfsBfs {
+public class Bfs {
     public static void main(String[] args) {
         int result = connectedVertices(new int[][]{
                 {0, 1},
